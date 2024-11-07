@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\andrz\Desktop\Code\StudentDataAnalyzer\.metadata\.plugins\org.eclipse.jdt.core
+4257909400.index
+1498947796.index
+1865797976.index
+2293757472.index
+45609520.index
